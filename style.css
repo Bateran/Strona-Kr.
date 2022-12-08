@@ -1,0 +1,26 @@
+body {
+  height: 100%;
+  width: 100%;
+  background:#000000;
+  color: #00ff04;
+    
+  ;
+}
+a {
+	color: #ffffff;
+	margin-left: 1ch;
+	margin-right: 1ch;
+
+	padding: 1ch;
+	text-decoration: none;
+	
+}
+a:hover {
+	background: #434a60;
+	text-decoration: underline;
+}
+header {
+	color: #ff0000;
+	text-align: center;
+}
+
